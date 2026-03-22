@@ -55,7 +55,7 @@ This project presents an interactive HR Analytics dashboard built using Power BI
 ---
 
 ## 📸 Dashboard Preview
-https://github.com/SAIMANJUNADH/hr-analytics-dashboard/blob/main/snapshot%20of%20dashboard.png
+[Dashboard](https://github.com/SAIMANJUNADH/hr-analytics-dashboard/blob/main/snapshot%20of%20dashboard.png)
 
 ---
 
